@@ -12,6 +12,11 @@ https://llvm-hpc-2020-workshop.github.io/
 https://llvm-hpc-2020-workshop.github.io/presentations/llvmhpc2020-amini.pdf
 
 
+## composable data
+
+arrow, substrait etc, see e.g. voltron data
+
+
 ## legion, terra, regent
 
 ### legion
