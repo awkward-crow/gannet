@@ -1,6 +1,17 @@
 # gannet
 
 
+## MLIR
+
+https://mlir.llvm.org/
+
+https://www.lingo-db.com/
+https://github.com/spcl/mlir-dace
+
+https://llvm-hpc-2020-workshop.github.io/
+https://llvm-hpc-2020-workshop.github.io/presentations/llvmhpc2020-amini.pdf
+
+
 ## legion, terra, regent
 
 ### legion
@@ -37,6 +48,8 @@ https://arxiv.org/abs/1908.05790
 
 
 ## chapel
+
+### arkouda
 
 
 ## 1brc
